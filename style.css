@@ -445,14 +445,14 @@ input[type=radio]{
     text-align: center;
 }
 .news-board{
-    background-image: url(resources/blurred.jpg) ;
+    background-image: radial-gradient(#ffffff, #e6836d);
     background-size: cover;
     width: 100%;
     height:650px;
     background-color:#172329;
 }
 .separator{
-    height: 15px;
+    height: 10px;
     background-color: #172329;
 }
 .news-content{
@@ -462,4 +462,16 @@ input[type=radio]{
     padding: 25px 40px;
     color: rgb(246,246,246);
     text-decoration: none;
+}
+.gallery-img{
+    text-align: center;
+    padding: 10px 20px 0px;
+    height: 320px;
+}
+.gallery-board{
+    background-image: radial-gradient(#ffffff, #e6836d);
+    background-size: cover;
+    width: 100%;
+    height:400px;
+    background-color:#172329;
 }
