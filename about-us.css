@@ -21,6 +21,7 @@
     flex-basis: 300%
 }
 .about-us-text {
+    margin-right: 100px;
     font-size: 20px;
     padding-left: 0px;
     font-family: 'Open Sans', sans-serif;
